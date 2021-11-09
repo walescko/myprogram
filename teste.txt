@@ -2,4 +2,5 @@ Arquivo de teste para subir no git
 Agora vou ver a cagada que eu fiz.
 Tirar a catinga
 Vamos dar um git pull agora.
-
+E não é que o Akita tem razão, exercitar algumas vezes
+com arquivos para ver como funciona o git e github.
