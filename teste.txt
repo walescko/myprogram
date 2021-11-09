@@ -5,3 +5,11 @@ Vamos dar um git pull agora.
 E não é que o Akita tem razão, exercitar algumas vezes
 com arquivos para ver como funciona o git e github.
 Arrumando os arquivos das minhas pastas aqui commitando e dando push para arrumar meu github
+
+chegou o teclado para a juliana usar para estudar programação em linguagem python
+quero ver se ela vai se adaptar ao teclado.
+Mas para começar com esse teclado está bom. 
+No anúncio dizia que ele não fazia barulho, mas agora testando ele,
+ele faz um barulho quando se digita.
+quero ver se ela vai se adaptar com as teclas mais altas, eu gostei desse teclado.
+me parece um teclado de membrama.
