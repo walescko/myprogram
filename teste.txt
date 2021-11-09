@@ -1,4 +1,5 @@
 Arquivo de teste para subir no git
 Agora vou ver a cagada que eu fiz.
 Tirar a catinga
+Vamos dar um git pull agora.
 
